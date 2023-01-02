@@ -1,0 +1,18 @@
+body {
+  width: 1400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: 17px;
+  color: white;
+  background: blueviolet;
+}
+.btn_text {
+  padding-right: 5px;
+}
